@@ -1,2 +1,2 @@
 # Certificates
-Contains acquired certificates.
+Contains the certificates I have acquired.
